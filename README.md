@@ -1,4 +1,4 @@
-# Temp_Automate_Fan
+# Temp_Automate_Fan with Arduino UNO
 Project for Temperature Automated Fan.
 
 An Automatic Fan Controller is a device designed to regulate a fan's speed in response to temperature fluctuations. Its function is to increase fan speed during higher temperatures and decrease it during cooler conditions, eliminating the need for manual adjustment. This technology finds wide application in various settings including server rooms, residential homes, and industrial environments where temperature control is critical for optimal functioning. The project serves as an invaluable educational tool, offering insights into the fundamentals of temperature regulation and its practical implementation in home environments. Here are some key points about the Temperature controlled fan system:
